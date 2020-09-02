@@ -1,0 +1,443 @@
+Monthly Sales Report(August 2020)
+
+11) Set comparison of count of order numbers
+
+2020-08-01
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1596240109'}
+authorized - data: {'W1596234881'}
+
+2020-08-02
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1596357996'}
+authorized - data: {'W1596138086', 'W1596412935'}
+
+2020-08-03
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1596412935'}
+authorized - data: {'W1595736925', 'W1596254708', 'W1596499218', 'W1596357996', 'W1596499351'}
+
+2020-08-04
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1596499351', 'W1596499218'}
+authorized - data: {'W1596585955', 'W1596234243', 'W1596585658'}
+
+2020-08-05
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1596585658', 'W1596585955'}
+authorized - data: {'W1595982461', 'W1596483385'}
+
+2020-08-06
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1596757589'}
+authorized - data: {'W1596758794'}
+
+2020-08-07
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1596758794'}
+authorized - data: {'W1596844806', 'W1596757589'}
+
+2020-08-08
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1596844806'}
+authorized - data: set()
+
+2020-08-09
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1596987721'}
+authorized - data: {'W1596770641'}
+
+2020-08-10
+data - qb: set()
+qb - data: set()
+data - authorized: set()
+authorized - data: {'W1596987721'}
+
+2020-08-11
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1597190126'}
+authorized - data: set()
+
+2020-08-12
+data - qb: {'W1597241765'}
+qb - data: set()
+data - authorized: set()
+authorized - data: {'W1597190126'}
+
+2020-08-13
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1597354917', 'W1597299472'}
+authorized - data: {'W1596023789'}
+
+2020-08-14
+data - qb: set()
+qb - data: set()
+data - authorized: set()
+authorized - data: {'W1597354917'}
+
+2020-08-15
+data - qb: set()
+qb - data: set()
+data - authorized: set()
+authorized - data: set()
+
+2020-08-16
+data - qb: set()
+qb - data: set()
+data - authorized: set()
+authorized - data: {'W1597622744', 'W1597622467'}
+
+2020-08-17
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1597622744', 'W1597674384', 'W1597622467'}
+authorized - data: {'W1597459053', 'W1597708833'}
+
+2020-08-18
+data - qb: {'W1597789243'}
+qb - data: set()
+data - authorized: {'W1597788732', 'W1597708833'}
+authorized - data: {'W1597674384', 'W1597795419'}
+
+2020-08-19
+data - qb: {'W1597839402', 'W1597838217', 'W1597843621', 'W1597873350'}
+qb - data: set()
+data - authorized: {'W1597872598', 'W1597795419'}
+authorized - data: {'W1597881664', 'W1597881976', 'W1597881755'}
+
+2020-08-20
+data - qb: {'W1597937139'}
+qb - data: set()
+data - authorized: {'W1597941341', 'W1597881976', 'W1597881755', 'W1597881664'}
+authorized - data: {'W1597872598', 'W1597968079'}
+
+2020-08-21
+data - qb: {'W1598043476', 'W1598019094', 'W1597972153', 'W1598018603', 'W1598019582', 'W1597975836', 'W1598020159'}
+qb - data: set()
+data - authorized: {'W1597968079'}
+authorized - data: {'W1598054571', 'W1598054684', 'W1597941341'}
+                            
+2020-08-22
+data - qb: {'W1598135773', 'W1598058782'}
+qb - data: set()
+data - authorized: {'W1598054571', 'W1598054684'}
+authorized - data: {'W1598141146'}
+
+2020-08-23
+data - qb: {'W1598216586'}
+qb - data: set()
+data - authorized: {'W1598141146'}
+authorized - data: set()
+
+2020-08-24
+data - qb: {'W1598261469', 'W1598311062', 'W1598241946', 'W1598266850'}
+qb - data: set()
+data - authorized: set()
+authorized - data: set()
+
+2020-08-25
+data - qb: {'W1598380221'}
+qb - data: set()
+data - authorized: {'W1598394019'}
+authorized - data: set()
+QB - Database for orders found: -0.010000000002037268
+
+2020-08-26
+data - qb: {'W1598450194', 'W1598450742'}
+qb - data: set()
+data - authorized: {'W1598446103', 'W1598428847'}
+authorized - data: {'W1598486739', 'W1598394019', 'W1598486625'}
+
+2020-08-27
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1598486739', 'W1598486625', 'W1598554921'}
+authorized - data: {'W1598428847'}
+
+2020-08-28
+data - qb: {'W1598630997'}
+qb - data: set()
+data - authorized: set()
+authorized - data: {'W1597269207', 'W1598554921'}
+
+2020-08-29
+data - qb: set()
+qb - data: set()
+data - authorized: {'W1598744432'}
+authorized - data: set()
+
+2020-08-30
+data - qb: {'W1598827284'}
+qb - data: set()
+data - authorized: {'W1598750785', 'W1598829273'}
+authorized - data: {'W1598744432'}
+
+
+
+
+
+
+===========================
+
+12) Comparison of order totals
+
+2020-08-01
+Difference -7.0
+Invoice: W1596256854 Backen: 399.56 Charge: 399.56 Quickbooks Total: 406.56
+2020-08-01
+ 25974.27 total in qb: 25981.52 total in authorize 26022.570000000007
+QB - Auth for all orders: -41.05000000000655
+QB - Database for orders found: 7.25
+
+2020-08-02
+Difference 30.0
+Invoice: W1596361742 Backen: 93.2 Charge: 93.2 Quickbooks Total: 63.2
+2020-08-02
+ 21071.76 total in qb: 21041.83 total in authorize 21333.95999999999
+QB - Auth for all orders: -292.12999999998647
+QB - Database for orders found: -29.929999999996653
+
+2020-08-03
+2020-08-03
+ 25114.23999999999 total in qb: 25114.259999999987 total in authorize 25407.709999999992
+QB - Auth for all orders: -293.45000000000437
+QB - Database for orders found: 0.01999999999679858
+
+2020-08-04
+Difference -7.0
+Invoice: W1596576706 Backen: 139.1 Charge: 139.1 Quickbooks Total: 146.1
+2020-08-04
+ 32935.75 total in qb: 32942.8 total in authorize 33303.39000000001
+QB - Auth for all orders: -360.5900000000038
+QB - Database for orders found: 7.05000000000291
+
+2020-08-05
+2020-08-05
+ 33815.69000000002 total in qb: 33815.62000000002 total in authorize 33874.14
+QB - Auth for all orders: -58.51999999998225
+QB - Database for orders found: -0.06999999999970896
+
+2020-08-06
+Difference 30.0
+Invoice: W1596690790 Backen: 101.51 Charge: 101.51 Quickbooks Total: 71.51
+2020-08-06
+ 30846.600000000006 total in qb: 30816.880000000005 total in authorize 30985.69999999999
+QB - Auth for all orders: -168.81999999998516
+QB - Database for orders found: -29.720000000001164
+
+2020-08-07
+2020-08-07
+ 32975.29999999998 total in qb: 32975.54999999999 total in authorize 33193.780000000006
+QB - Auth for all orders: -218.23000000001775
+QB - Database for orders found: 0.25000000000727596
+
+2020-08-08
+Difference 60.0
+Invoice: W1596919509 Backen: 136.62 Charge: 136.62 Quickbooks Total: 76.62
+2020-08-08
+ 15921.070000000007 total in qb: 15861.000000000007 total in authorize 15921.069999999998
+QB - Auth for all orders: -60.069999999990614
+QB - Database for orders found: -60.06999999999971
+
+2020-08-09
+Difference 29.999999999999986
+Invoice: W1597011619 Backen: 154.51 Charge: 154.51 Quickbooks Total: 124.51
+Difference -7.0
+Invoice: W1597003310 Backen: 155.45 Charge: 155.45 Quickbooks Total: 162.45
+Difference -14.0
+Invoice: W1596997926 Backen: 88.72 Charge: 88.72 Quickbooks Total: 102.72
+2020-08-09
+ 17086.650000000005 total in qb: 17077.620000000006 total in authorize 17186.230000000003
+QB - Auth for all orders: -108.60999999999694
+QB - Database for orders found: -9.029999999998836
+
+2020-08-10
+2020-08-10
+ 28266.110000000015 total in qb: 28266.410000000007 total in authorize 28502.969999999994
+QB - Auth for all orders: -236.55999999998676
+QB - Database for orders found: 0.29999999999199645
+
+2020-08-11
+Difference 29.999999999999993
+Invoice: W1597185801 Backen: 79.35 Charge: 79.35 Quickbooks Total: 49.35
+2020-08-11
+ 31400.33000000002 total in qb: 31370.48000000002 total in authorize 31400.33000000001
+QB - Auth for all orders: -29.84999999998763
+QB - Database for orders found: -29.849999999998545
+
+2020-08-12
+Difference -32.5
+Invoice: W1597196117 Backen: 232.36 Charge: 232.36 Quickbooks Total: 264.86
+2020-08-12
+ 39403.479999999996 total in qb: 39436.07 total in authorize 39531.78999999998
+QB - Auth for all orders: -95.71999999997934
+QB - Database for orders found: 32.59000000000378
+
+2020-08-13
+Difference -7.0
+Invoice: W1597349336 Backen: 159.75 Charge: 159.75 Quickbooks Total: 166.75
+2020-08-13
+ 28855.98000000001 total in qb: 28863.07000000001 total in authorize 29166.63000000001
+QB - Auth for all orders: -303.5599999999977
+QB - Database for orders found: 7.0900000000001455
+
+2020-08-14
+Difference 30.000000000000014
+Invoice: W1597367333 Backen: 128.8 Charge: 128.8 Quickbooks Total: 98.8
+2020-08-14
+ 25275.36 total in qb: 25245.599999999995 total in authorize 25309.08999999999
+QB - Auth for all orders: -63.489999999994325
+QB - Database for orders found: -29.760000000005675
+
+2020-08-15
+Difference -45.0
+Invoice: W1597514110 Backen: 166.35 Charge: 166.35 Quickbooks Total: 211.35
+2020-08-15
+ 15926.630000000003 total in qb: 15971.600000000002 total in authorize 15839.62000000001
+QB - Auth for all orders: 131.9799999999923
+QB - Database for orders found: 44.969999999999345
+
+2020-08-16
+Difference -7.0
+Invoice: W1597621633 Backen: 175.03 Charge: 175.03 Quickbooks Total: 182.03
+Difference 30.0
+Invoice: W1597599903 Backen: 304.96 Charge: 304.96 Quickbooks Total: 274.96
+2020-08-16
+ 16285.770000000004 total in qb: 16262.940000000004 total in authorize 16535.699999999997
+QB - Auth for all orders: -272.75999999999294
+QB - Database for orders found: -22.829999999999927
+
+2020-08-17
+Difference -15.0
+Invoice: W1597670694 Backen: 388.76 Charge: 388.76 Quickbooks Total: 403.76
+Difference -72.5
+Invoice: W1597703752 Backen: 119.25 Charge: 119.25 Quickbooks Total: 191.75
+2020-08-17
+ 25035.679999999997 total in qb: 25123.279999999995 total in authorize 25196.759999999995
+QB - Auth for all orders: -73.47999999999956
+QB - Database for orders found: 87.59999999999854
+
+2020-08-18
+Difference -15.0
+Invoice: W1597769530 Backen: 298.71 Charge: 298.71 Quickbooks Total: 313.71
+2020-08-18
+ 25355.969999999998 total in qb: 25370.999999999996 total in authorize 25809.749999999985
+QB - Auth for all orders: -438.7499999999891
+QB - Database for orders found: 15.029999999998836
+
+2020-08-19
+Difference -32.5
+Invoice: W1597864580 Backen: 229.74 Charge: 229.74 Quickbooks Total: 262.24
+2020-08-19
+ 32117.280000000013 total in qb: 32149.800000000014 total in authorize 33751.25000000001
+QB - Auth for all orders: -1601.4499999999935
+QB - Database for orders found: 32.52000000000044
+
+2020-08-20
+Difference -14.0
+Invoice: W1597896653 Backen: 111.42 Charge: 111.42 Quickbooks Total: 125.42
+Difference -7.0
+Invoice: W1597892103 Backen: 258.86 Charge: 258.86 Quickbooks Total: 265.86
+Difference -7.0
+Invoice: W1597967836 Backen: 122.88 Charge: 122.88 Quickbooks Total: 129.88
+2020-08-20
+ 27614.379999999994 total in qb: 27642.429999999993 total in authorize 28566.780000000013
+QB - Auth for all orders: -924.3500000000204
+QB - Database for orders found: 28.049999999999272
+
+2020-08-21
+Difference -28.0
+Invoice: W1597977388 Backen: 359.85 Charge: 359.85 Quickbooks Total: 387.85
+2020-08-21
+ 27979.95 total in qb: 28008.190000000002 total in authorize 28567.880000000005
+QB - Auth for all orders: -559.6900000000023
+QB - Database for orders found: 28.2400000000016
+
+2020-08-22
+Difference -7.0
+Invoice: W1598130542 Backen: 107.63 Charge: 107.63 Quickbooks Total: 114.63
+2020-08-22
+ 19187.280000000002 total in qb: 19194.75 total in authorize 19257.200000000008
+QB - Auth for all orders: -62.450000000008004
+QB - Database for orders found: 7.469999999997526
+
+2020-08-23
+Difference -14.0
+Invoice: W1598156202 Backen: 153.58 Charge: 153.58 Quickbooks Total: 167.58
+2020-08-23
+ 18938.620000000003 total in qb: 18952.690000000002 total in authorize 18609.16
+QB - Auth for all orders: 343.5300000000025
+QB - Database for orders found: 14.069999999999709
+
+2020-08-24
+2020-08-24
+ 24447.44000000001 total in qb: 24447.580000000005 total in authorize 25398.390000000007
+QB - Auth for all orders: -950.8100000000013
+QB - Database for orders found: 0.13999999999577994
+
+2020-08-25
+2020-08-25
+ 29358.550000000003 total in qb: 29358.54 total in authorize 29402.810000000016
+QB - Auth for all orders: -44.27000000001499
+
+2020-08-26
+2020-08-26
+ 41003.02 total in qb: 41003.12 total in authorize 41236.42
+QB - Auth for all orders: -233.29999999999563
+QB - Database for orders found: 0.10000000000582077
+
+2020-08-27
+Difference -39.0
+Invoice: W1598562701 Backen: 162.54 Charge: 162.54 Quickbooks Total: 201.54
+2020-08-27
+ 29106.010000000028 total in qb: 29145.13000000003 total in authorize 29000.920000000016
+QB - Auth for all orders: 144.21000000001368
+QB - Database for orders found: 39.12000000000262
+
+2020-08-28
+Difference -72.5
+Invoice: W1598573444 Backen: 158.78 Charge: 158.78 Quickbooks Total: 231.28
+2020-08-28
+ 28086.23000000001 total in qb: 28158.83000000001 total in authorize 28202.870000000006
+QB - Auth for all orders: -44.039999999997235
+QB - Database for orders found: 72.59999999999854
+
+2020-08-29
+Difference -32.5
+Invoice: W1598718247 Backen: 99.5 Charge: 99.5 Quickbooks Total: 132.0
+2020-08-29
+ 20236.39 total in qb: 20269.180000000004 total in authorize 20236.390000000014
+QB - Auth for all orders: 32.78999999998996
+QB - Database for orders found: 32.79000000000451
+
+2020-08-30
+2020-08-30
+ 18849.37999999999 total in qb: 18849.479999999992 total in authorize 18924.39000000001
+QB - Auth for all orders: -74.91000000001804
+QB - Database for orders found: 0.10000000000218279
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
